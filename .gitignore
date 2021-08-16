@@ -1,0 +1,12 @@
+logs/
+.DS_Store
+.envrc
+.eggs
+l3parser.egg-info/
+builds
+out.ini
+*ndjson
+*json
+build/*
+dist/*
+var/*
